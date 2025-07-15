@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>React DevOps Tutorial</h1>
-        <p>A simple CI/CD pipeline with GitHub Actions.</p>
+        <p>A simple CI/CD pipeline with GitHub Actions. Testing 11</p>
         <div>
           <p>You clicked {count} times</p>
           <button onClick={() => setCount(count + 1)}>
