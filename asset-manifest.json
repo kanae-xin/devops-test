@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kanae-xin/devops-test/static/css/main.f855e6bc.css",
-    "main.js": "/kanae-xin/devops-test/static/js/main.299d9752.js",
+    "main.js": "/kanae-xin/devops-test/static/js/main.603466b2.js",
     "static/js/453.fb8b2c81.chunk.js": "/kanae-xin/devops-test/static/js/453.fb8b2c81.chunk.js",
     "index.html": "/kanae-xin/devops-test/index.html",
     "main.f855e6bc.css.map": "/kanae-xin/devops-test/static/css/main.f855e6bc.css.map",
-    "main.299d9752.js.map": "/kanae-xin/devops-test/static/js/main.299d9752.js.map",
+    "main.603466b2.js.map": "/kanae-xin/devops-test/static/js/main.603466b2.js.map",
     "453.fb8b2c81.chunk.js.map": "/kanae-xin/devops-test/static/js/453.fb8b2c81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.299d9752.js"
+    "static/js/main.603466b2.js"
   ]
 }
